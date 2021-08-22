@@ -9,6 +9,8 @@ public class Main {
 
 	public static void main(String[] args) {
 
+
+
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Введите ваш возраст");
 		int age = sc.nextInt();
@@ -24,6 +26,7 @@ public class Main {
 			System.out.print("Оставайся дома");
 
 		}
+
 		}
 
 //		switch (age) {
